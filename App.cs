@@ -2,9 +2,9 @@
 
 namespace ChatClient
 {
-    public partial class MainForm : Form
+    public partial class App : Form
     {
-        public MainForm()
+        public App()
         {
             InitializeComponent();
         }
